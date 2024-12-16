@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Child of Everything</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2em;
+            color: #222;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .signature {
+            margin-top: 20px;
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Child of Everything</h1>
+        <p>To the mother,</p>
+        <p>The creation,</p>
+        <p>The disruption.</p>
+
+        <p>To the father,</p>
+        <p>The structure,</p>
+        <p>The control.</p>
+
+        <p>I’m your child.</p>
+        <p>I’m life,</p>
+        <p>I’m a human soul.</p>
+
+        <p>Now I breathe,</p>
+        <p>Like waves,</p>
+        <p>Like the sun.</p>
+
+        <p>Can you teach me again,</p>
+        <p>How to laugh, cry, play, and run?</p>
+
+        <p>I see you now,</p>
+        <p>My search ended here.</p>
+
+        <p>Now I stand,</p>
+        <p>On my own ground.</p>
+
+        <p>Take my body,</p>
+        <p>Expand it a home.</p>
+
+        <p>In this endless journey,</p>
+        <p>There’s a game of life,</p>
+
+        <p>we stay.</p>
+        <p>we play.</p>
+
+        <p>we meet,</p>
+        <p>again and again.</p>
+
+        <p>Like the star explode into novae,</p>
+        <p>Light her way home.</p>
+
+        <div class="signature">— Nova Zhang</div>
+    </div>
+</body>
+</html>
